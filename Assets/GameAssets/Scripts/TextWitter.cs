@@ -26,6 +26,11 @@ public class TextWitter : MonoBehaviour
                 timer += timePerCharacter;
                 characterIndex++;
                 uiText.text = textToWrite.Substring(0, characterIndex);
+                if(characterIndex >= textToWrite.Length)
+                {
+                    uiText = null;
+                    return;
+                }
             }
         }
     }
