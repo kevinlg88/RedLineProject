@@ -20,4 +20,5 @@ public class UIText : MonoBehaviour
         characterNameUI.text = characterName;
         textWitter.AddWriter(dialogText, sentence, timer);
     }
+
 }
