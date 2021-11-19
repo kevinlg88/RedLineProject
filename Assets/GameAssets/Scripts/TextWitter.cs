@@ -6,6 +6,7 @@ public class TextWitter : MonoBehaviour
 {
     private static TextWitter _instance;
     public static TextWitter Instance { get { return _instance; } }
+
     private TextMeshProUGUI uiText;
     private string textToWrite;
     private int characterIndex = 0;

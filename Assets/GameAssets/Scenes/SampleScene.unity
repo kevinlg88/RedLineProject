@@ -9010,6 +9010,8 @@ PlayableDirector:
     value: {fileID: 1611062945}
   - key: {fileID: 0}
     value: {fileID: 0}
+  - key: {fileID: -7886093484713142526, guid: 6d896ea4b5c20be459242e823eed7bb2, type: 2}
+    value: {fileID: 1611062945}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &199586601
@@ -63855,7 +63857,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: Menina
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9d9c3502a5983ff4492cfd167a1dc7d8, type: 2}
   m_sharedMaterial: {fileID: -4172190178818233766, guid: 9d9c3502a5983ff4492cfd167a1dc7d8, type: 2}
@@ -68462,7 +68464,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: Kotaro! Kotaro! Acorde que os clientes che
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -72554,7 +72556,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1611062946}
   - component: {fileID: 1611062948}
-  - component: {fileID: 1611062949}
   - component: {fileID: 1611062950}
   m_Layer: 5
   m_Name: Text1
@@ -72593,22 +72594,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1611062945}
   m_CullTransparentMesh: 1
---- !u!114 &1611062949
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1611062945}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2d0a7b48cf06cb45886fd19f2dbfda4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  textWitter: {fileID: 123533049}
-  characterName: 
-  sentence: "Kotaro est\xE1 comprando pe\xE7as de rel\xF3gio em uma loja."
-  timer: 0.03
 --- !u!223 &1611062950
 Canvas:
   m_ObjectHideFlags: 0
