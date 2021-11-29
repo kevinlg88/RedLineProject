@@ -470,7 +470,7 @@ MonoBehaviour:
     m_Start: 2
     m_ClipIn: 0
     m_Asset: {fileID: 4980934604855862224}
-    m_Duration: 2
+    m_Duration: 3
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1720349627493395230}
     m_EaseInDuration: 0
@@ -1190,7 +1190,7 @@ MonoBehaviour:
     m_Start: 2.55
     m_ClipIn: 0
     m_Asset: {fileID: -6064548827759297033}
-    m_Duration: 1.4500000000000002
+    m_Duration: 2.45
     m_TimeScale: 1
     m_ParentTrack: {fileID: 2284331839030831074}
     m_EaseInDuration: 0
@@ -1280,10 +1280,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 3
+    m_Start: 2.783333333333333
     m_ClipIn: 0
     m_Asset: {fileID: 8727517488323890407}
-    m_Duration: 1
+    m_Duration: 2.216666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: 3492987410922373824}
     m_EaseInDuration: 0
@@ -1394,10 +1394,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 3
+    m_Start: 2.783333333333333
     m_ClipIn: 0
     m_Asset: {fileID: 9094219695130607890}
-    m_Duration: 1
+    m_Duration: 2.216666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4393810127714233027}
     m_EaseInDuration: 0
@@ -1698,7 +1698,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: Haruna
-    sentence: Kotaro! Kotaro! Acorde que os clientes chegam logo!
+    sentence: Kotaro! Kotaro! Wake up that customers arrive soon!
     timePerCharacter: 0.03
 --- !u!114 &9094219695130607890
 MonoBehaviour:

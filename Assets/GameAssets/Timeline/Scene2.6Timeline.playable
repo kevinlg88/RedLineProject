@@ -468,8 +468,8 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: Garota do Kimono Roxo
-    sentence: "Que lugar lindo\u2026"
+    characterName: Girl in the purple kimono
+    sentence: What a beautiful place...
     timePerCharacter: 0.03
 --- !u!114 &-1093449452230491204
 MonoBehaviour:
@@ -1046,10 +1046,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 3
+    m_Start: 2.5833333333333335
     m_ClipIn: 0
     m_Asset: {fileID: 1705918530482338778}
-    m_Duration: 1
+    m_Duration: 1.4166666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: 7140748618689598987}
     m_EaseInDuration: 0
@@ -1163,10 +1163,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 3
+    m_Start: 2.5833333333333335
     m_ClipIn: 0
     m_Asset: {fileID: -1329062653167460611}
-    m_Duration: 1
+    m_Duration: 1.4166666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8911289292852078058}
     m_EaseInDuration: 0

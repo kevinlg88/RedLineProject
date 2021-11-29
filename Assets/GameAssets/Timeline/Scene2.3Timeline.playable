@@ -342,7 +342,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: Kotaro
-    sentence: "Certo\u2026 Entre no carro."
+    sentence: Okay... Get in the vehicle.
     timePerCharacter: 0.03
 --- !u!114 &4309663296744964077
 MonoBehaviour:

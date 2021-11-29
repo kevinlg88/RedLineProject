@@ -434,7 +434,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: 
-    sentence: Kotaro fica confuso.
+    sentence: Kotaro gets confused.
     timePerCharacter: 0.03
 --- !u!114 &6040734912795876912
 MonoBehaviour:

@@ -26,8 +26,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: 
-    sentence: "Quando Kotaro abre a porta, ela faz um barulho e acaba chamando a
-      aten\xE7\xE3o de duas garotas dentro da loja que j\xE1 estava fechada."
+    sentence: When Kotaro opens the door, it makes a sound and ends up drawing attention
+      of the two girls inside the store that is closed.
     timePerCharacter: 0.03
 --- !u!114 &-6720262971498403716
 MonoBehaviour:
@@ -716,7 +716,7 @@ MonoBehaviour:
     m_Start: 1
     m_ClipIn: 0
     m_Asset: {fileID: -7407254038383421898}
-    m_Duration: 1
+    m_Duration: 4.016666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1101304767083529292}
     m_EaseInDuration: 0
@@ -1079,7 +1079,7 @@ MonoBehaviour:
     m_Start: 1
     m_ClipIn: 0
     m_Asset: {fileID: 9094219695130607890}
-    m_Duration: 1
+    m_Duration: 4.016666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4393810127714233027}
     m_EaseInDuration: 0
@@ -1265,7 +1265,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -8763714605805850096}
-    m_Duration: 2
+    m_Duration: 5.016666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: 6040734912795876912}
     m_EaseInDuration: 0

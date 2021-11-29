@@ -869,8 +869,8 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: Garota do kimono roxo
-    sentence: "Ai ai ai ai\u2026."
+    characterName: Girl in the purple kimono
+    sentence: Ouch ouch ouch...
     timePerCharacter: 0.03
 --- !u!114 &6040734912795876912
 MonoBehaviour:

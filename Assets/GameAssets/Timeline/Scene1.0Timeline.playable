@@ -41,7 +41,7 @@ MonoBehaviour:
     m_Start: 0.5
     m_ClipIn: 0
     m_Asset: {fileID: -4988289062043602310}
-    m_Duration: 3
+    m_Duration: 2.033333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7886093484713142526}
     m_EaseInDuration: 0
@@ -539,8 +539,8 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: Menina
-    sentence: Kotaro! Kotaro! Acorde que os clientes chegam logo!
+    characterName: 
+    sentence: Kotaro is buying watch parts in a store.
     timePerCharacter: 0.03
 --- !u!114 &-4519400806303119931
 MonoBehaviour:
@@ -567,7 +567,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -2667573521440445220}
-    m_Duration: 3.5
+    m_Duration: 2.533333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: -4519400806303119931}
     m_EaseInDuration: 0
@@ -776,7 +776,7 @@ MonoBehaviour:
     m_Start: 0.5
     m_ClipIn: 0
     m_Asset: {fileID: 7235375172497445112}
-    m_Duration: 3
+    m_Duration: 2.033333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1856307277823658939}
     m_EaseInDuration: 0

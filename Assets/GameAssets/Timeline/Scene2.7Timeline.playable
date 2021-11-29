@@ -51,7 +51,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: Kotaro
-    sentence: Vamos entrar.
+    sentence: Let's go inside.
     timePerCharacter: 0
 --- !u!114 &-3816730749027175545
 MonoBehaviour:
@@ -122,10 +122,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1
+    m_Start: 0.8
     m_ClipIn: 0
     m_Asset: {fileID: -5708694717825683631}
-    m_Duration: 1
+    m_Duration: 1.4666666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: -192130597635218014}
     m_EaseInDuration: 0
@@ -287,7 +287,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 810752459484429054}
-    m_Duration: 2
+    m_Duration: 2.2666666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4528939355650013281}
     m_EaseInDuration: 0
@@ -380,7 +380,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -8763714605805850096}
-    m_Duration: 2
+    m_Duration: 2.2666666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: 6040734912795876912}
     m_EaseInDuration: 0
@@ -470,10 +470,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1
+    m_Start: 0.8
     m_ClipIn: 0
     m_Asset: {fileID: 1705918530482338778}
-    m_Duration: 1
+    m_Duration: 1.4666666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: 7140748618689598987}
     m_EaseInDuration: 0

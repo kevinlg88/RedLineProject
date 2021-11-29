@@ -48,7 +48,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: Kotaro
-    sentence: Haruna e Sayumi, cheguei!
+    sentence: Haruna and Sayumi, I am home!
     timePerCharacter: 0.03
 --- !u!114 &-3816730749027175545
 MonoBehaviour:
@@ -324,10 +324,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1
+    m_Start: 0.65
     m_ClipIn: 0
     m_Asset: {fileID: 9094219695130607890}
-    m_Duration: 1
+    m_Duration: 1.3499999999999996
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4393810127714233027}
     m_EaseInDuration: 0
@@ -417,10 +417,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1
+    m_Start: 0.65
     m_ClipIn: 0
     m_Asset: {fileID: -6387164261537528651}
-    m_Duration: 1
+    m_Duration: 1.3499999999999996
     m_TimeScale: 1
     m_ParentTrack: {fileID: 5065674185681049571}
     m_EaseInDuration: 0

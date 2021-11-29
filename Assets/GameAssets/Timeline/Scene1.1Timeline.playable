@@ -48,8 +48,8 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: Vendedor
-    sentence: "Aqui est\xE3o todas as pe\xE7as, senhor Kotaro!"
+    characterName: Salesman
+    sentence: Here are all the parts, sir Kotaro!
     timePerCharacter: 0.03
 --- !u!114 &-3816730749027175545
 MonoBehaviour:

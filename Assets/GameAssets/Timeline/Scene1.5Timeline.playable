@@ -34,10 +34,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1.6333333333333333
+    m_Start: 1.4666666666666666
     m_ClipIn: 0
     m_Asset: {fileID: 8634991857638880701}
-    m_Duration: 1.8666666666666667
+    m_Duration: 2.033333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6833517565798920513}
     m_EaseInDuration: 0
@@ -175,10 +175,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1.6333333333333333
+    m_Start: 1.4666666666666666
     m_ClipIn: 0
     m_Asset: {fileID: -455777293872896330}
-    m_Duration: 1.8666666666666667
+    m_Duration: 2.033333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: -2820608116886915852}
     m_EaseInDuration: 0
@@ -433,7 +433,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: 
-    sentence: "Kotaro entra no seu ve\xEDculo e vai para casa. "
+    sentence: Kotaro goes inside his vehicle and goes home.
     timePerCharacter: 0.03
 --- !u!114 &9210670954582372856
 MonoBehaviour:

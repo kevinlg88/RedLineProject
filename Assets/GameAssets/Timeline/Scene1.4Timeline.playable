@@ -317,7 +317,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: Kotaro
-    sentence: "\u201CEst\xE1 tarde, preciso chegar logo em casa\u2026\u201D"
+    sentence: '"It''s late, I need to get home soon..."'
     timePerCharacter: 0.03
 --- !u!114 &6040734912795876912
 MonoBehaviour:

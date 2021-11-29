@@ -365,7 +365,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: Kotaro
-    sentence: "Voc\xEA est\xE1 bem? Se machucou?!"
+    sentence: Are you okay? Are you hurt?!
     timePerCharacter: 0.03
 --- !u!114 &6040734912795876912
 MonoBehaviour:

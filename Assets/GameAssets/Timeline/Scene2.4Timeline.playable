@@ -48,7 +48,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     characterName: 
-    sentence: "A garota e Kotaro v\xE3o para dentro do carro."
+    sentence: The girl and Kotaro goes inside the vehicle.
     timePerCharacter: 0.03
 --- !u!114 &-3816730749027175545
 MonoBehaviour:
@@ -124,7 +124,7 @@ MonoBehaviour:
     m_Start: 1.5
     m_ClipIn: 0
     m_Asset: {fileID: -455777293872896330}
-    m_Duration: 1.5
+    m_Duration: 2
     m_TimeScale: 1
     m_ParentTrack: {fileID: -2820608116886915852}
     m_EaseInDuration: 0
@@ -252,7 +252,7 @@ MonoBehaviour:
     m_Start: 1.5
     m_ClipIn: 0
     m_Asset: {fileID: -6327389876013658988}
-    m_Duration: 1.5
+    m_Duration: 2
     m_TimeScale: 1
     m_ParentTrack: {fileID: -420433211712914676}
     m_EaseInDuration: 0
@@ -618,7 +618,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -8763714605805850096}
-    m_Duration: 3
+    m_Duration: 3.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 6040734912795876912}
     m_EaseInDuration: 0
