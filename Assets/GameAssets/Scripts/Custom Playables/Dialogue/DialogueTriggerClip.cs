@@ -9,7 +9,6 @@ using UnityEngine.Timeline;
 public class DialogueTriggerClip : PlayableAsset, ITimelineClipAsset
 {
     public DialogueTriggerBehaviour template = new DialogueTriggerBehaviour();
-
     public ClipCaps clipCaps
     {
         get{return ClipCaps.None;}
