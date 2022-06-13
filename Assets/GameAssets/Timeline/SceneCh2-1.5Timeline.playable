@@ -144,8 +144,6 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: Kotaro
-    sentence: Wow, today was really fast!
     timePerCharacter: 0.03
 --- !u!114 &-4519400806303119931
 MonoBehaviour:

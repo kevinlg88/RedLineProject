@@ -10,10 +10,12 @@ using TMPro;
 [Serializable]
 public class DialogueTriggerBehaviour : PlayableBehaviour
 {
-    public string characterName;
-    public string sentence;
+    private int textNumber;
+    private string characterName;
+    private string sentence;
     public float timePerCharacter;
 
+    private PlayableDirector director; 
     private PlayableGraph graph;
     private Playable thisPlayable;
     private TextMeshProUGUI dialogueText;
@@ -27,6 +29,7 @@ public class DialogueTriggerBehaviour : PlayableBehaviour
     {
         graph = playable.GetGraph();
         thisPlayable = playable;
+        director = playable.GetGraph().GetResolver() as PlayableDirector;
     }
 
     public override void ProcessFrame(Playable playable, FrameData info, object playerData)
@@ -38,6 +41,15 @@ public class DialogueTriggerBehaviour : PlayableBehaviour
         {
             firstTime = true;
             index = 0;
+
+            //Setup Sentence
+            textNumber = director.gameObject.GetComponent<DialogueNumber>().textNumber;
+            string dataCharacter = LoadExcel.instance.GetItem(textNumber).character;
+            characterName = dataCharacter != null ? dataCharacter : " ";
+            string dataLine = LoadExcel.instance.GetItem(textNumber).line;
+            sentence = dataLine != null ? dataLine : " ";
+
+            //Getting GameObjects
             dialogueText = dialogueBox.transform.Find("Text").GetComponent<TextMeshProUGUI>();
             TextMeshProUGUI characterNameText = dialogueBox.transform.Find("Character")
                                                     .GetComponent<TextMeshProUGUI>();

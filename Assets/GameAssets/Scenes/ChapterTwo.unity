@@ -173,6 +173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 53373179}
   - component: {fileID: 53373180}
+  - component: {fileID: 53373181}
   m_Layer: 0
   m_Name: SceneCh2-3.1
   m_TagString: Untagged
@@ -435,6 +436,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &53373181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53373178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &72140509
 GameObject:
   m_ObjectHideFlags: 0
@@ -794,13 +808,14 @@ GameObject:
   m_Component:
   - component: {fileID: 132975513}
   - component: {fileID: 132975514}
+  - component: {fileID: 132975515}
   m_Layer: 0
   m_Name: SceneCh2-1.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &132975513
 Transform:
   m_ObjectHideFlags: 0
@@ -854,6 +869,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &132975515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 132975512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &226587884
 GameObject:
   m_ObjectHideFlags: 0
@@ -864,6 +892,7 @@ GameObject:
   m_Component:
   - component: {fileID: 226587885}
   - component: {fileID: 226587886}
+  - component: {fileID: 226587887}
   m_Layer: 0
   m_Name: SceneCh2-1.1
   m_TagString: Untagged
@@ -934,6 +963,19 @@ PlayableDirector:
     value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &226587887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 226587884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &280723914
 GameObject:
   m_ObjectHideFlags: 0
@@ -944,6 +986,7 @@ GameObject:
   m_Component:
   - component: {fileID: 280723915}
   - component: {fileID: 280723916}
+  - component: {fileID: 280723917}
   m_Layer: 0
   m_Name: SceneCh2-1.5
   m_TagString: Untagged
@@ -1040,6 +1083,19 @@ PlayableDirector:
     value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &280723917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 280723914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &282869939
 GameObject:
   m_ObjectHideFlags: 0
@@ -1406,6 +1462,7 @@ GameObject:
   m_Component:
   - component: {fileID: 361991510}
   - component: {fileID: 361991511}
+  - component: {fileID: 361991512}
   m_Layer: 0
   m_Name: SceneCh2-2.2
   m_TagString: Untagged
@@ -1554,6 +1611,19 @@ PlayableDirector:
     value: {fileID: 1414397254}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &361991512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361991509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &402967714
 GameObject:
   m_ObjectHideFlags: 0
@@ -1941,6 +2011,7 @@ GameObject:
   m_Component:
   - component: {fileID: 571039511}
   - component: {fileID: 571039512}
+  - component: {fileID: 571039513}
   m_Layer: 0
   m_Name: SceneCh2-1.3
   m_TagString: Untagged
@@ -2023,6 +2094,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &571039513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 571039510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &576207521
 GameObject:
   m_ObjectHideFlags: 0
@@ -2033,6 +2117,7 @@ GameObject:
   m_Component:
   - component: {fileID: 576207522}
   - component: {fileID: 576207523}
+  - component: {fileID: 576207524}
   m_Layer: 0
   m_Name: SceneCh2-2.1
   m_TagString: Untagged
@@ -2165,6 +2250,19 @@ PlayableDirector:
     value: {fileID: 965264707}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &576207524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 576207521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &633727690
 GameObject:
   m_ObjectHideFlags: 0
@@ -2249,6 +2347,7 @@ GameObject:
   m_Component:
   - component: {fileID: 670680312}
   - component: {fileID: 670680313}
+  - component: {fileID: 670680314}
   m_Layer: 0
   m_Name: SceneCh2-2.4
   m_TagString: Untagged
@@ -2425,6 +2524,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &670680314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 670680311}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &670927529
 GameObject:
   m_ObjectHideFlags: 0
@@ -2642,6 +2754,7 @@ GameObject:
   m_Component:
   - component: {fileID: 714225239}
   - component: {fileID: 714225240}
+  - component: {fileID: 714225241}
   m_Layer: 0
   m_Name: SceneCh2-1.2
   m_TagString: Untagged
@@ -2718,6 +2831,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &714225241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 714225238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &770381436
 GameObject:
   m_ObjectHideFlags: 0
@@ -2728,6 +2854,7 @@ GameObject:
   m_Component:
   - component: {fileID: 770381437}
   - component: {fileID: 770381438}
+  - component: {fileID: 770381439}
   m_Layer: 0
   m_Name: SceneCh2-2.9
   m_TagString: Untagged
@@ -2966,6 +3093,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &770381439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 770381436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &786356320
 GameObject:
   m_ObjectHideFlags: 0
@@ -3049,6 +3189,7 @@ GameObject:
   m_Component:
   - component: {fileID: 815501220}
   - component: {fileID: 815501221}
+  - component: {fileID: 815501222}
   m_Layer: 0
   m_Name: SceneCh2-3.2
   m_TagString: Untagged
@@ -3321,6 +3462,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &815501222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 815501219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &846931368
 GameObject:
   m_ObjectHideFlags: 0
@@ -3501,13 +3655,14 @@ GameObject:
   m_Component:
   - component: {fileID: 903498791}
   - component: {fileID: 903498792}
+  - component: {fileID: 903498793}
   m_Layer: 0
   m_Name: SceneCh2-3.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &903498791
 Transform:
   m_ObjectHideFlags: 0
@@ -3773,6 +3928,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &903498793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 903498790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &908381803
 GameObject:
   m_ObjectHideFlags: 0
@@ -4092,6 +4260,7 @@ GameObject:
   m_Component:
   - component: {fileID: 986971315}
   - component: {fileID: 986971316}
+  - component: {fileID: 986971317}
   m_Layer: 0
   m_Name: SceneCh2-2.7
   m_TagString: Untagged
@@ -4302,6 +4471,19 @@ PlayableDirector:
     value: {fileID: 1130833411}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &986971317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 986971314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1015327554
 GameObject:
   m_ObjectHideFlags: 0
@@ -4312,6 +4494,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1015327555}
   - component: {fileID: 1015327556}
+  - component: {fileID: 1015327557}
   m_Layer: 0
   m_Name: SceneCh2-3.0
   m_TagString: Untagged
@@ -4564,6 +4747,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1015327557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1015327554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1021780999
 GameObject:
   m_ObjectHideFlags: 0
@@ -4617,6 +4813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1077904376}
   - component: {fileID: 1077904377}
+  - component: {fileID: 1077904378}
   m_Layer: 0
   m_Name: SceneCh2-1.6
   m_TagString: Untagged
@@ -4719,6 +4916,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1077904378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1077904375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1086549488
 GameObject:
   m_ObjectHideFlags: 0
@@ -5418,6 +5628,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1318596670}
   - component: {fileID: 1318596671}
+  - component: {fileID: 1318596672}
   m_Layer: 0
   m_Name: SceneCh2-2.6
   m_TagString: Untagged
@@ -5614,6 +5825,193 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1318596672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1318596669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
+--- !u!1 &1321931088
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1321931090}
+  - component: {fileID: 1321931089}
+  m_Layer: 0
+  m_Name: Reader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1321931089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321931088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d1510c15704c57418984829de88d37c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CSVFilename: CHAPTER 1 - ENG
+  blankItem:
+    textNumber: 0
+    character: 
+    line: 
+  itemDatabase:
+  - textNumber: 1
+    character: 
+    line: Kotaro is buying watch parts in a store.
+  - textNumber: 2
+    character: Salesman
+    line: Here are all the parts, sir Kotaro!
+  - textNumber: 3
+    character: Kotaro
+    line: I already told you to not call me sir Kotaro, I am too young to be called
+      sir!
+  - textNumber: 4
+    character: 
+    line: Kotaro smiles to the salesman and says good bye with the parts on his hands.
+  - textNumber: 5
+    character: Kotaro
+    line: It's late, I need to get home soon...
+  - textNumber: 6
+    character: 
+    line: Kotaro goes inside his vehicle and goes home.
+  - textNumber: 7
+    character: 
+    line: In the midway, a girl is running in front of the vehicle and he brakes
+      hard!
+  - textNumber: 8
+    character: 
+    line: Kotaro gets out of the vehicle and goes check if the girl is okay.
+  - textNumber: 9
+    character: Kotaro
+    line: Hey, what's your problem?!
+  - textNumber: 10
+    character: Kotaro
+    line: Hey, are you okay?
+  - textNumber: 11
+    character: Girl in the purple kimono
+    line: Ouch ouch ouch...
+  - textNumber: 12
+    character: Kotaro
+    line: Are you okay? Are you hurt?!
+  - textNumber: 13
+    character: Girl in the purple kimono
+    line: Please help me sir! I will explain it to you later, but get me out of here!
+  - textNumber: 14
+    character: 
+    line: Kotaro gets confused.
+  - textNumber: 15
+    character: Kotaro
+    line: Okay... Get in the vehicle.
+  - textNumber: 16
+    character: 
+    line: The girl and Kotaro goes inside the vehicle.
+  - textNumber: 17
+    character: 
+    line: They arrive at the store.
+  - textNumber: 18
+    character: Girl in the purple kimono
+    line: What a beautiful place...
+  - textNumber: 19
+    character: Kotaro
+    line: Let's go inside.
+  - textNumber: 20
+    character: 
+    line: When Kotaro opens the door, it makes a sound and ends up drawing attention
+      of the two girls inside the store that is closed.
+  - textNumber: 21
+    character: Kotaro
+    line: Haruna and Sayumi, I am home!
+  - textNumber: 22
+    character: Haruna
+    line: Kotaro! I am glad that you... Who is her?!
+  - textNumber: 23
+    character: Sayumi
+    line: I didn't know that you had other girl friends, Kotaro...
+  - textNumber: 24
+    character: 
+    line: Kotaro explains to them what happened.
+  - textNumber: 25
+    character: Sayumi
+    line: Hey little girl, do you have a problem to sleep in a dirty room?
+  - textNumber: 26
+    character: Girl in the purple kimono
+    line: No mada-
+  - textNumber: 27
+    character: Sayumi
+    line: Don't you dare end this sentence...
+  - textNumber: 28
+    character: 
+    line: Haruna starts laughing at the situation.
+  - textNumber: 29
+    character: Haruna
+    line: Never call her that or else she will kill you.
+  - textNumber: 30
+    character: Girl in the purple kimono
+    line: I am sorry!
+  - textNumber: 31
+    character: Sayumi
+    line: My name is Sayumi and the child beside you is called Haruna. Memorize our
+      names and we won't have any problems.
+  - textNumber: 32
+    character: Girl in the purple kimono
+    line: Yes, Sayumi-chan!
+  - textNumber: 33
+    character: Kotaro
+    line: Well, I'll take her to her room now. Tomorrow we start early, so let's
+      go to sleep.
+  - textNumber: 34
+    character: Haruna
+    line: Yes!
+  - textNumber: 35
+    character: 
+    line: Kotaro takes the girl to the bedroom.
+  - textNumber: 36
+    character: Kotaro
+    line: This will be your room today. And please don't touch anything.
+  - textNumber: 37
+    character: Girl in the purple kimono
+    line: Okay!
+  - textNumber: 38
+    character: 
+    line: Kotaro turns to leave the room.
+  - textNumber: 39
+    character: Girl in the purple kimono
+    line: "Kotaro-kun?! Thank you for the help\u2026"
+  - textNumber: 40
+    character: 
+    line: The girl smiles at Kotaro, showing herself quite grateful for the situation.
+--- !u!4 &1321931090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321931088}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 324.15027, y: 314.22473, z: -409.2171}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1339168572
 GameObject:
   m_ObjectHideFlags: 0
@@ -5700,6 +6098,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1413560058}
   - component: {fileID: 1413560059}
+  - component: {fileID: 1413560060}
   m_Layer: 0
   m_Name: SceneCh2-2.5
   m_TagString: Untagged
@@ -5886,6 +6285,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1413560060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1413560057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1414104207
 GameObject:
   m_ObjectHideFlags: 0
@@ -6143,6 +6555,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1418370609}
   - component: {fileID: 1418370610}
+  - component: {fileID: 1418370611}
   m_Layer: 0
   m_Name: SceneCh2-1.4
   m_TagString: Untagged
@@ -6243,6 +6656,19 @@ PlayableDirector:
     value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1418370611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1418370608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1448570378
 GameObject:
   m_ObjectHideFlags: 0
@@ -6687,6 +7113,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1539054195}
   - component: {fileID: 1539054196}
+  - component: {fileID: 1539054197}
   m_Layer: 0
   m_Name: SceneCh2-2.8
   m_TagString: Untagged
@@ -6911,6 +7338,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1539054197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539054194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1593830349
 GameObject:
   m_ObjectHideFlags: 0
@@ -6921,6 +7361,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1593830350}
   - component: {fileID: 1593830351}
+  - component: {fileID: 1593830352}
   m_Layer: 0
   m_Name: SceneCh2-1.8
   m_TagString: Untagged
@@ -7037,6 +7478,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1593830352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1593830349}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1609845098
 GameObject:
   m_ObjectHideFlags: 0
@@ -7047,6 +7501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1609845099}
   - component: {fileID: 1609845100}
+  - component: {fileID: 1609845101}
   m_Layer: 0
   m_Name: SceneCh2-2.0
   m_TagString: Untagged
@@ -7167,6 +7622,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1609845101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1609845098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1687362572
 GameObject:
   m_ObjectHideFlags: 0
@@ -7293,7 +7761,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Timelines: {fileID: 519119518}
   canSkip: 1
-  director: {fileID: 0}
+  director: {fileID: 132975514}
 --- !u!4 &1711733640
 Transform:
   m_ObjectHideFlags: 0
@@ -7318,6 +7786,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1723919511}
   - component: {fileID: 1723919512}
+  - component: {fileID: 1723919513}
   m_Layer: 0
   m_Name: SceneCh2-1.9
   m_TagString: Untagged
@@ -7430,6 +7899,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1723919513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1723919510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1790693253
 GameObject:
   m_ObjectHideFlags: 0
@@ -7519,6 +8001,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1798770749}
   - component: {fileID: 1798770750}
+  - component: {fileID: 1798770751}
   m_Layer: 0
   m_Name: SceneCh2-1.7
   m_TagString: Untagged
@@ -7627,6 +8110,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1798770751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1798770748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1836411825
 GameObject:
   m_ObjectHideFlags: 0
@@ -7790,6 +8286,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1956827653}
   - component: {fileID: 1956827654}
+  - component: {fileID: 1956827655}
   m_Layer: 0
   m_Name: SceneCh2-2.3
   m_TagString: Untagged
@@ -7952,6 +8449,19 @@ PlayableDirector:
     value: {fileID: 522797049}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &1956827655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1956827652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textNumber: 0
 --- !u!1 &1960634955
 GameObject:
   m_ObjectHideFlags: 0

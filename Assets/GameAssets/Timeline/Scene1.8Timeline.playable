@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: 
-    sentence: Kotaro gets out of the vehicle and goes check if the girl is okay.
     timePerCharacter: 0.03
 --- !u!114 &-8827367754054125870
 MonoBehaviour:

@@ -3,16 +3,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
+[Serializable]
 public class Item
 {
-    public string textNumber;
+    public int textNumber;
     public string character;
     public string line;
     public Item(Item d)
     {
         textNumber = d.textNumber;
-        character = d.character;
-        line = d.line;
+        string dataCharacter = d.character;
+        character = dataCharacter != null ? dataCharacter : " ";
+        string dataLine = d.line;
+        line = dataLine != null ? dataLine : " ";
     }
 }

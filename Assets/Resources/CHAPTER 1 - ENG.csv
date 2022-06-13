@@ -1,0 +1,113 @@
+TextNumber,Character,Line
+1,,Kotaro is buying watch parts in a store.
+2,Salesman,"Here are all the parts, sir Kotaro!"
+3,Kotaro,"I already told you to not call me sir Kotaro, I am too young to be called sir!"
+4,,Kotaro smiles to the salesman and says good bye with the parts on his hands.
+5,Kotaro,"""It's late, I need to get home soon..."""
+6,,Kotaro goes inside his vehicle and goes home.
+7,,"In the midway, a girl is running in front of the vehicle and he brakes hard!"
+8,,Kotaro gets out of the vehicle and goes check if the girl is okay.
+9,Kotaro,"Hey, what's your problem?!"
+10,Kotaro,"Hey, are you okay?"
+11,Girl in the purple kimono,Ouch ouch ouch...
+12,Kotaro,Are you okay? Are you hurt?!
+13,Girl in the purple kimono,"Please help me sir! I will explain it to you later, but get me out of here!"
+14,,Kotaro gets confused.
+15,Kotaro,Okay... Get in the vehicle.
+16,,The girl and Kotaro goes inside the vehicle.
+17,,They arrive at the store.
+18,Girl in the purple kimono,What a beautiful place...
+19,Kotaro,Let's go inside.
+20,,"When Kotaro opens the door, it makes a sound and ends up drawing attention of the two girls inside the store that is closed."
+21,Kotaro,"Haruna and Sayumi, I am home!"
+22,Haruna,Kotaro! I am glad that you... Who is her?!
+23,Sayumi,"I didn't know that you had other girl friends, Kotaro..."
+24,,Kotaro explains to them what happened.
+25,Sayumi,"Hey little girl, do you have a problem to sleep in a dirty room?"
+26,Girl in the purple kimono,No mada-
+27,Sayumi,Don't you dare end this sentence...
+28,,Haruna starts laughing at the situation.
+29,Haruna,Never call her that or else she will kill you.
+30,Girl in the purple kimono,I am sorry!
+31,Sayumi,My name is Sayumi and the child beside you is called Haruna. Memorize our names and we won't have any problems.
+32,Girl in the purple kimono,"Yes, Sayumi-chan!"
+33,Kotaro,"Well, I'll take her to her room now. Tomorrow we start early, so let's go to sleep."
+34,Haruna,Yes!
+35,,Kotaro takes the girl to the bedroom.
+36,Kotaro,This will be your room today. And please don't touch anything.
+37,Girl in the purple kimono,Okay!
+38,,Kotaro turns to leave the room.
+39,Girl in the purple kimono,Kotaro-kun?! Thank you for the help…
+40,,"The girl smiles at Kotaro, showing herself quite grateful for the situation."
+41,,"Kotaro smiles back and goes to his room."
+42,Haruna,"Sayu, did you find that girl familiar too?"
+43,Sayumi,"I may be wrong, but I think I know her."
+44,,Sayumi remains thoughtful.
+45,Sayumi,"""A girl like that in an expensive kimono in the middle of the street at night... She's not poor like us..."""
+46,,Haruna starts to yawn.
+47,Haruna,"Sayu, I'm getting sleepy. I'm going to sleep and tomorrow we'll talk more!"
+48,Sayumi,"Let's go. Good night, Haruna-chan."
+49,,Everyone goes to sleep.
+50,Haruna,Kotaro! Kotaro! Wake up that customers arrive soon!
+51,Kotaro,But already?! It's so early…
+52,Haruna,"Look at the time, you're late!"
+53,Kotaro,What?!
+54,,Kotaro gets out of bed and runs to get ready.
+55,Haruna,Just kidding! Get ready because we will open it soon.
+56,,Kotaro gets dressed and goes to the store.
+57,Kotaro,"Wow, as we had a lot of customers today. The night shift starts in a little while..."
+58,Sayumi,"Kotaro, the girl you brought hasn't left her room yet. Wouldn't it be nice to check that she's okay?"
+59,Kotaro,"It's true… I'm going there now. Sayumi, can you please start organizing everything for the night shift while I do this?"
+60,Sayumi,No problem. Haruna and I will take care of everything.
+61,,Kotaro goes to the girl's room to check and she is still sleeping.
+62,Girl,"Kotaro, is that you?"
+63,Kotaro,"Yes, are you okay? Did you sleep well?"
+64,,The girl gets up and looks fine.
+65,Girl,"Well, I think I owe you an explanation..."
+66,Girl,"My name is Sakura, the reason I'm running away is that my brother was after me... He almost found me if it wasn't for you."
+67,Kotaro,"But, why are you running away from your family?"
+68,Sakura,My family has a tradition where everyone must follow a path dictated by their parents and… I don't want that.
+69,Sakura,"I want to have my life, with my goals and dreams... But all they want for me is to continue the family business with my brother."
+70,,Sakura tells Kotaro more about her life.
+71,,"Meanwhile, Sayumi and Haruna are outside the room listening to the conversation."
+72,Sayumi,Now it all makes sense...
+73,Haruna,"What do you mean, Sayumi?"
+74,Sayumi,"This girl is not just any person, her name is Ikuta Sakura."
+75,Sayumi,"She is the daughter of one of the biggest businessmen in the country, especially after World War II."
+76,Haruna,"This is strange, a girl with so much money coming here… Did Kotaro already explain to her what is this place?"
+77,Sayumi,I don't think so. But let's hear some more.
+78,Sayumi,"We have to be careful, if this girl ran away, I guarantee that several people are after her right now and that can cause us problems."
+79,Sakura,"Kotaro, I need to ask you big favor... I don't want anyone to find me."
+80,Sakura,"Please, don't tell Sayumi and Haruna what I told you for now… I'll talk to them when I'm ready."
+81,Kotaro,Right. We need a name for you in the meantime...
+82,Sakura,How about Ayumi? Ayumi is a beautiful name!
+83,,"Sakura starts to smile, like she's just relaxing and having fun, even with a very serious subject."
+84,Kotaro,"Agreed, let's call you Ayumi."
+85,,"Meanwhile, Sayumi and Haruna enter the room to talk to them."
+86,Haruna,Kotaru-kun!
+87,Sayumi,You look better now. Did you sleep well?
+88,Ayumi,"Yes, I'm much better now Sayumi-chan! Thanks for asking!"
+89,Sayumi,"What's your name?"
+90,Haruna,"That's right, you haven't said your name yet!"
+91,Ayumi,So...
+92,Kotaro,Her name is Ayumi. Right?
+93,Ayumi,"Yes, my name is Ayumi."
+94,Sayumi,"Nice to meet you, Ayumi-chan. I am sorry to be straight with you, we keep no secrets here. I hope you understand."
+95,Haruna,"By the way… Kotaro-kun, did you talk to Ayumi-chan about what we do here?"
+96,Ayumi,What do you mean? Isn't this a clock fixing shop?
+97,Kotaro,"The store is just a facade… Ayumi, the truth is that this is a brothel."
+98,Kotaro,"We work in the morning and afternoon like a normal shop, but that doesn't make enough money for us all to survive."
+99,Sayumi,"Are you sure you still want to be here, even though you know it?!"
+100,Ayumi,So it means that…
+101,Haruna,That's exactly what you're thinking… Me and Sayumi are prostitute and Kotaro is responsible for running the place.
+102,Sayumi,You didn't answer my question…
+103,,"Ayumi stands thoughtfully for a while, looking like several thoughts were in her mind at the same time."
+104,Ayumi,What I need to do?
+105,,Everyone is surprised by the answer.
+106,Sayumi,What?!
+107,Haruna,You mean that...
+108,Ayumi,"Yes, I'll stay with you. Maybe I can help with somethings!"
+109,,"Everyone starts to smile and try to understand a little of what is going on in her head, but only time will tell."
+110,Kotaro,Well.... Welcome!
+111,,Everyone continues to chat happily with the new company.
+112,,After a while everyone will go to their rooms to rest that tomorrow will be a new day.

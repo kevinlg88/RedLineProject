@@ -224,9 +224,7 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: 
-    sentence: Kotaro smiles to the salesman and says good bye with the parts on his
-      hands.
+    textNumber: 4
     timePerCharacter: 0.03
 --- !u!114 &4739276715099240354
 MonoBehaviour:

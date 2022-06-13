@@ -8216,7 +8216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textNumber: 0
+  textNumber: 7
 --- !u!1 &481270077
 GameObject:
   m_ObjectHideFlags: 0
@@ -11742,7 +11742,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &656076876
 Transform:
   m_ObjectHideFlags: 0
@@ -16219,7 +16219,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textNumber: 0
+  textNumber: 1
 --- !u!1 &856193890
 GameObject:
   m_ObjectHideFlags: 0
@@ -19043,7 +19043,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textNumber: 0
+  textNumber: 2
 --- !u!1 &1004144379
 GameObject:
   m_ObjectHideFlags: 0
@@ -21797,7 +21797,6 @@ GameObject:
   - component: {fileID: 1155542687}
   - component: {fileID: 1155542688}
   - component: {fileID: 1155542689}
-  - component: {fileID: 1155542690}
   m_Layer: 0
   m_Name: PuzzleTime
   m_TagString: Untagged
@@ -21849,19 +21848,6 @@ PlayableDirector:
   m_SceneBindings: []
   m_ExposedReferences:
     m_References: []
---- !u!114 &1155542690
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1155542686}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  textNumber: 0
 --- !u!1 &1163255647
 GameObject:
   m_ObjectHideFlags: 0
@@ -27472,7 +27458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textNumber: 0
+  textNumber: 6
 --- !u!1 &1445172985
 GameObject:
   m_ObjectHideFlags: 0
@@ -31702,7 +31688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textNumber: 0
+  textNumber: 5
 --- !u!1 &1683443451
 GameObject:
   m_ObjectHideFlags: 0
@@ -36850,7 +36836,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textNumber: 0
+  textNumber: 4
 --- !u!1 &1885345181
 GameObject:
   m_ObjectHideFlags: 0
@@ -38552,7 +38538,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50ae63e4fc5d20443be9840b6755d6aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textNumber: 0
+  textNumber: 3
 --- !u!1 &1954812346
 GameObject:
   m_ObjectHideFlags: 0
@@ -43066,6 +43052,10 @@ PrefabInstance:
     - target: {fileID: 2529637809916643140, guid: 2705c624e6e6f3e4e9ecccdc21b8f0d0, type: 3}
       propertyPath: m_Name
       value: SimpleTextBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 2529637809916643140, guid: 2705c624e6e6f3e4e9ecccdc21b8f0d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2529637809916643143, guid: 2705c624e6e6f3e4e9ecccdc21b8f0d0, type: 3}
       propertyPath: m_Pivot.x

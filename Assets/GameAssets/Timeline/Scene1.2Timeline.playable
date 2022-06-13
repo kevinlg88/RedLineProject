@@ -240,9 +240,7 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: Kotaro
-    sentence: I already told you to not call me sir Kotaro, I am too young to be
-      called sir!
+    textNumber: 3
     timePerCharacter: 0.03
 --- !u!114 &6040734912795876912
 MonoBehaviour:

@@ -432,8 +432,7 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: 
-    sentence: Kotaro goes inside his vehicle and goes home.
+    textNumber: 6
     timePerCharacter: 0.03
 --- !u!114 &9210670954582372856
 MonoBehaviour:

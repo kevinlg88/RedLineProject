@@ -539,8 +539,6 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: 
-    sentence: Kotaro wakes up to another day of work at the store.
     timePerCharacter: 0.03
 --- !u!114 &-4519400806303119931
 MonoBehaviour:

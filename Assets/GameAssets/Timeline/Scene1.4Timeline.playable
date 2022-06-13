@@ -316,8 +316,7 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: Kotaro
-    sentence: '"It''s late, I need to get home soon..."'
+    textNumber: 5
     timePerCharacter: 0.03
 --- !u!114 &6040734912795876912
 MonoBehaviour:

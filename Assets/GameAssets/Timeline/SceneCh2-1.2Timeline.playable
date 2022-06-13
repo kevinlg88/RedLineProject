@@ -144,9 +144,6 @@ MonoBehaviour:
   m_Name: DialogueTriggerClip
   m_EditorClassIdentifier: 
   template:
-    characterName: Kotaro
-    sentence: The costumers are getting here soon, I will get ready and start answering
-      them.
     timePerCharacter: 0.03
 --- !u!114 &-4519400806303119931
 MonoBehaviour:
